@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mastark3000.github.io/prod/static/css/main.550d3fd6.css",
+    "main.js": "/mastark3000.github.io/prod/static/js/main.55e75146.js",
+    "static/js/787.e57d81a2.chunk.js": "/mastark3000.github.io/prod/static/js/787.e57d81a2.chunk.js",
+    "index.html": "/mastark3000.github.io/prod/index.html",
+    "main.550d3fd6.css.map": "/mastark3000.github.io/prod/static/css/main.550d3fd6.css.map",
+    "main.55e75146.js.map": "/mastark3000.github.io/prod/static/js/main.55e75146.js.map",
+    "787.e57d81a2.chunk.js.map": "/mastark3000.github.io/prod/static/js/787.e57d81a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550d3fd6.css",
+    "static/js/main.55e75146.js"
+  ]
+}
